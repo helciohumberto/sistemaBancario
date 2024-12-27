@@ -1,6 +1,3 @@
-Aqui está um exemplo de um arquivo `README.md` para o seu projeto:
-
-```markdown
 # BancoSimples 🏦
 
 Um programa em Java que simula operações bancárias básicas, como consulta de saldo, depósito e saque. Ideal para quem está aprendendo programação orientada a objetos e deseja entender conceitos básicos de um sistema bancário.
